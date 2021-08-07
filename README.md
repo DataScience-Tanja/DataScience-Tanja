@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanja
-- 👀 I’m interested in Text Mining, Natural Language Processing, Pattern Recognition and Data Visualization with Python and R.
+- 👀 I’m interested in Text Mining, Natural Language Processing, Pattern Recognition, Responsible & Sustainable Technology and Data Visualization with Python and R.
 - 🌱 I’m currently learning Music Data Analysis and Network Analysis.
 - 💞️ I’m looking to collaborate on Natural Language Processing and Pattern Recognition projects.
 - 📫 How to reach me:
